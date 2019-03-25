@@ -1,0 +1,19 @@
+baseURL = "http://wherenow.org/"
+languageCode = "en-gb"
+title = "Wherenow.org"
+theme = "hallo"
+[Author]
+  name = "Hugh"
+[params]
+  [params.colors]
+    background = "#445b7f"
+  [[params.links]]
+    icon = "github"
+    title = "Github"
+    url = "https://github.com/hughsaunders"
+  [[params.links]]
+    iconset = "fas"
+    icon = "envelope"
+    title = "Contact"
+    url = "mailto:hugh@wherenow.org"
+
